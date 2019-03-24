@@ -1,2 +1,2 @@
-# VeriBilimi
-Hisse Senedi Fiyat tahmini
+# DataScience
+DataScienceProjects
